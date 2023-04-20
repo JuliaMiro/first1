@@ -89,4 +89,7 @@ def test_f():
 
 
 # git check
-a = f + c
+# a = f + c
+
+def mult(a, b):
+    return a * b
