@@ -93,3 +93,4 @@ def test_f():
 
 def mult(a, b):
     return a * b
+
