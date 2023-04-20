@@ -86,3 +86,7 @@ def test_f():
 # import my_calc
 # result4 = my_calc.div(9, 8)
 # print(result4)
+
+
+# git check
+a = f + c
